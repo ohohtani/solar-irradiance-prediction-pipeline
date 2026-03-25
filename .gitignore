@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+.ipynb_checkpoints/
+
+train.csv
+test.csv
+submission_sample.csv
+*.csv
+
+!requirements.txt
+
+GC_final_v2_out/
+models/
